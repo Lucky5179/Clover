@@ -31,8 +31,8 @@
         g = t.n(x);
       let f = {
           APP: "https://app.clober.org",
-          TWITTER: "https://twitter.com/",
-          TELEGRAM: "https://t.me/",
+          TWITTER: "https://x.com/Cloberorg",
+          TELEGRAM: "https://t.me/Cloberorg",
         },
         m = g()(0.22, 1, 0.36, 1),
         u = {
