@@ -1602,10 +1602,10 @@
                   (0, a.jsxs)("a", {
                     className: "cta",
                     target: "_blank",
-                    href: "https://app.clober.org",
+                    href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x8608fCb85Be94685D8875F51d1ec52328270d11B",
                     rel: "noreferrer",
                     children: [
-                      (0, a.jsx)("span", { children: "Try it out!" }),
+                      (0, a.jsx)("span", { children: "Buy now!" }),
                       (0, a.jsx)("svg", {
                         viewBox: "0 0 24 24",
                         fill: "none",
