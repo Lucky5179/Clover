@@ -691,7 +691,7 @@
                   (0, a.jsx)(k, { className: "logo" }),
                   (0, a.jsx)("span", {
                     className: "copyright",
-                    children: "\xa9 2023 Clober. All rights reserved",
+                    children: "\xa9 2024 Clober. All rights reserved",
                   }),
                 ],
               }),
