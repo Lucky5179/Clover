@@ -30,7 +30,7 @@
         x = t(3431),
         g = t.n(x);
       let f = {
-          APP: "https://app-clover.vercel.app",
+          APP: "https://app.clober.org",
           TWITTER: "https://twitter.com/",
           TELEGRAM: "https://t.me/",
         },
@@ -1505,7 +1505,7 @@
                   (0, a.jsx)("a", {
                     className: "cta",
                     target: "_blank",
-                    href: "https://app-clover.vercel.app",
+                    href: "https://app.clober.org",
                     rel: "noreferrer",
                     onClick: () =>
                       w("Launch App", "Main_Launch App", "Main_Launch App"),
@@ -1602,7 +1602,7 @@
                   (0, a.jsxs)("a", {
                     className: "cta",
                     target: "_blank",
-                    href: "https://app-clover.vercel.app",
+                    href: "https://app.clober.org",
                     rel: "noreferrer",
                     children: [
                       (0, a.jsx)("span", { children: "Try it out!" }),
